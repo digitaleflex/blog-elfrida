@@ -1,4 +1,4 @@
-# Blog PHP avec Bootstrap
+# Blog PHP avec Tailwindcss
 
 Un blog moderne et élégant développé en PHP avec une interface utilisateur Bootstrap 5, enrichi d'animations et d'effets visuels modernes.
 
